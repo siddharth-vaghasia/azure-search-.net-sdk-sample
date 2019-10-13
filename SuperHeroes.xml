@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <SuperHeros>
+    <SuperHero>
+      <ID>1</ID>
+      <NAME>Bruce Wayne</NAME>
+      <ScreenName>Batman</ScreenName>
+      <Power>strength, stamina, endurance, intellect, detective</Power>
+    </SuperHero>
+      <SuperHero>
+      <ID>2</ID>
+      <NAME>Clark Kent</NAME>
+      <ScreenName>Superman</ScreenName>
+      <Power>super strength,fly, freeze breath, durablity</Power>
+    </SuperHero>
+    <SuperHero>
+      <ID>3</ID>
+      <NAME>Barry Allen</NAME>
+      <ScreenName>Flash</ScreenName>
+      <Power>fastest man, durablity, metahuman, time travel</Power>
+    </SuperHero>
+      <SuperHero>
+      <ID>4</ID>
+      <NAME>Princess Diana</NAME>
+      <ScreenName>Wonder woman</ScreenName>
+      <Power>athlete, acrobat, fighter, strategist, </Power>
+    </SuperHero>
+    <SuperHero>
+      <ID>5</ID>
+      <NAME>Victor Stone</NAME>
+      <ScreenName>Cyborg</ScreenName>
+      <Power>superhuman strength, speed, stamina, flight </Power>
+    </SuperHero>
+    <SuperHero>
+      <ID>6</ID>
+      <NAME>Aurthur Curry</NAME>
+      <ScreenName>Aquaman</ScreenName>
+      <Power>telepathic, metaphysical energy , superhuman strength, stamina, </Power>
+    </SuperHero>
+  </SuperHeros>
+</root>
