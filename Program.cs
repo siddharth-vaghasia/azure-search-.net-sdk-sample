@@ -13,9 +13,9 @@ namespace AZSD
     class Program
     {
 
-       static string searchServiceName = "myazsearch2";
-        static string adminApiKey = "3C2FBD3C4F4926EC3B752A0871E34E10"; // this is admin api key
-       static string queryApiKey = "859F72F344C8057AE6DD651EF4C9884E";  // this is query api key
+       static string searchServiceName = "myazsearch2"; // ADD your Azure Search Service name
+        static string adminApiKey = "***************"; // ADD your admin API key here
+       static string queryApiKey = "*******************";  // ADD you query APU key here
         static string indexName = "superheroes";
 
 
